@@ -1,6 +1,6 @@
 ## Welcome to My Project Files
 
-Robotics is my passion. Artificial Intelligence, navigation, computer vision, etcetara are the buzzwords captivating my imagination. I started building my own contraptions at the age of 14, using mostly with plastic construction pieces. One of my earliest robots was a massive [K'nex Robotic Arm](https://www.youtube.com/watch?v=M24NSTdlk6I) that sported basic ultrasonic sensors and hobby motors. Since then, the robotics field has grown in applications and my intrigue has expanded with it. 
+Robotics is my passion. I started building my own contraptions at the age of 14, using mostly with plastic construction pieces. One of my earliest robots was a massive [K'nex Robotic Arm](https://www.youtube.com/watch?v=M24NSTdlk6I) that sported basic ultrasonic sensors and hobby motors. Since then, the robotics field has grown in applications and my intrigue has expanded with it. 
 
 ### I.A.R.M. 3.0 (Interactive Autonomous Robotic Manipulator)
 
