@@ -9,7 +9,7 @@ Generation 3 of my Interactive Autonomous Robotic Manipulators (I.A.R.M.), this 
 
 ![IARM 3 ASSEMBLED](./assets/IARM3_assembled_basic.JPEG)
 
-For position control, the robot kinematics are handled by the ROS MoveIt application which interfaces with the motor drivers through an Arduino Mega 2560. A full introduction to design can be found ![here](link_to_YouTube_channel_video).
+For position control, the robot kinematics are handled by the ROS MoveIt application which interfaces with the motor drivers through an Arduino Mega 2560. An introduction to the full design can be found ![here](link_to_YouTube_channel_video).
 
 ## Lane Detection
 
