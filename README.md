@@ -11,12 +11,12 @@ Generation 3 of my Interactive Autonomous Robotic Manipulators (I.A.R.M.), this 
 
 For position control, the robot kinematics are handled by the ROS MoveIt application which interfaces with the motor drivers through an Arduino Mega 2560. An introduction to the full design can be found ![here](link_to_YouTube_channel_video).
 
-## Lane Detection
+## Mobile Prototyping Platform
 
 ![Mini dorito CAD](./assets/Mini_dorito_CAD.PNG)
 
-Combining real time computer vision with mobile robotic systems turns out to be a real challenge. This miniature mobile robot serves as a prototyping platform for doing just that. A Raspberry Pi/Arduino setup allows for a conservative chassis and low power consumption, while a Picamera provides live video input for processing with OpenCV libraries. 
+Combining real-time computer vision with mobile robotic systems turns out to be a real challenge. This miniature mobile robot serves as a prototyping platform for doing just that. A Raspberry Pi/Arduino setup allows for a conservative chassis and low power consumption, while a Picamera provides live video onboard image processing. 
 
 ![Mini dorito assembled](./assets/Mini_dorito_assembled.JPG)
 
-The primary motivation behind this design was to experiment with basic lane navigation techniques. By basic I mean entirely image-processing based; no advanced machine learning or neural networks here. Instead a plethora of basic OpenCV functions and the [RANSAC](https://hands-on.cloud/using-the-random-sample-consensus-ransac-algorithm-in-python/) algorithm were combined to allow robot to identify lanes in a simple driving environment.
+The primary motivation behind this design was to experiment with basic lane navigation techniques. By basic I mean entirely image-processing based; no advanced machine learning or neural networks here. Instead a plethora of basic OpenCV functions and the [RANSAC](https://hands-on.cloud/using-the-random-sample-consensus-ransac-algorithm-in-python/) algorithm were combined to allow the robot to identify lanes in a simple driving environment.
