@@ -7,7 +7,7 @@ Robotics is my passion. I started building my own contraptions at the age of 14,
 ![IARM 3 CAD](./assets/complete_chassis.JPG)
 Generation 3 of my Interactive Autonomous Robotic Manipulators (I.A.R.M.), this initiative is my first design fabricated entirely from 3D-printed parts. The end state is to use computer vision and AI to play chess against a human opponent in real-time...and win! To accomplish this, IARM 3.0 boasts 5 degrees of freedom (DOF) powered by stepper motors. All necessary computer vision and artificial intelligence capabilities are handled by an NVIDIA Jetson Nano and [OAK-D stereoscopic camera](https://store.opencv.ai/products/oak-d). 
 
-![IARM 3 ASSEMBLED](./assets/IARM3_assembled_lidless.PNG)
+![IARM 3 MOVING](./assets/IARM_DOF_test.GIF)
 
 For position control, the robot kinematics are handled by the ROS MoveIt application which interfaces with the motor drivers through an Arduino Mega 2560. Check out my Youtube [video](https://youtu.be/PcROnV9fZaA) for a quick introduction to the unique design.
 
