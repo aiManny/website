@@ -1,11 +1,11 @@
 # Welcome to My Project Files
 
-Robotics is my passion. I started building my own contraptions at the age of 14, using mostly plastic construction pieces. One of my earliest designs was a massive [K'nex Robotic Arm](https://www.youtube.com/watch?v=M24NSTdlk6I) that sported basic ultrasonic sensors and hobby servo motors. As the robotics field has grown in complexity my intrigue has expanded with it. 
+Robotics is my passion. I first started tinkering when I was 14, with one of my earliest benchmarks being a massive [K'nex Robotic Arm](https://www.youtube.com/watch?v=M24NSTdlk6I) that sported hobby sensors and servos. From these humble beginnings, my intrigue has grown exponentially to keep pace with the fascinating realm of intelligent machines. 
 
 ## I.A.R.M. 3.0 (Interactive Autonomous Robotic Manipulator)
 
 ![IARM 3 CAD](./assets/complete_chassis.JPG)
-This initiative is my first design fabricated entirely from 3D-printed parts. The end goal is to use computer vision and AI to play chess against a human opponent in real-time...and win! To accomplish this, IARM 3.0 boasts 5 degrees of freedom (DOF) powered by stepper motors. All necessary computer vision and artificial intelligence capabilities are handled by an NVIDIA Jetson Nano and [OAK-D stereoscopic camera](https://store.opencv.ai/products/oak-d). 
+Behold! My first design fabricated entirely from 3D-printed parts. The end goal is to use computer vision and A.I. to play a real-world game of chess against a human opponent...and win! To accomplish this, IARM 3.0 boasts 5 degrees of freedom (DOF) powered by stepper motors. All necessary computer vision and artificial intelligence capabilities are handled by an NVIDIA Jetson Nano and [OAK-D stereoscopic camera](https://store.opencv.ai/products/oak-d). 
 
 ![IARM 3 MOVING](./assets/IARM_DOF_test.gif)
 
@@ -15,7 +15,7 @@ For position control, the robot kinematics are handled by the ROS MoveIt applica
 
 ![Mini dorito CAD](./assets/Mini_dorito_CAD.PNG)
 
-Combining real-time computer vision with mobile robotic systems turns out to be a real challenge. This miniature mobile robot serves as a prototyping platform for doing just that. A Raspberry Pi/Arduino setup allows for a conservative chassis and low power consumption, while a Picamera provides live video onboard image processing. 
+Behold! Combining real-time computer vision with mobile robotic systems turns out to be a real challenge. This miniature mobile robot serves as a prototyping platform for doing just that. A Raspberry Pi/Arduino setup allows for a conservative chassis and low power consumption, while a Picamera provides live video onboard image processing. 
 
 ![Mini dorito assembled](./assets/Mini_dorito_assembled.JPG)
 
